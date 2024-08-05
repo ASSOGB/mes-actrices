@@ -9,7 +9,7 @@ ul,ol
 } 
 body 
 {
-     background: #bfbfbf url('/home/python/DEVELOPPEMENT WEB/ajj/jQuery/2.jpg') repeat-x;
+     background: #bfbfbf url('2.jpg') repeat-x;
 
      font-family: Arial, sans-serif;
 }
@@ -59,7 +59,7 @@ position: relative ;
     width: 140px;
     height:500px;
     cursor: pointer;
-    background: url('/home/python/DEVELOPPEMENT WEB/ajj/jQuery/3.jpg') no-repeat;
+    background: url('3.jpg') no-repeat;
 }
 #part2 div
 {
